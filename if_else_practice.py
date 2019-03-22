@@ -1,3 +1,4 @@
+#if else 練習
 phone = 'note7'
 if phone == 'note7':
     print('this is note7')

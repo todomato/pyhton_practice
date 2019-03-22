@@ -1,4 +1,4 @@
-print("aaa")
+#簡單宣告變數
 
 a = int(input('整數1 = '))
 b = int(input('整數2 = '))
