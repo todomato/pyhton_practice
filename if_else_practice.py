@@ -5,4 +5,17 @@ elif phone == 'iphone':
     print('this is iphone')
 else:
     print('...')
-    
+
+#practice 2
+x = input('運算符號: ' )
+a = int(input('整數1 : '))
+b = int(input('整數1 : '))
+if x == '+':
+    print(a+b)
+elif x == '-':
+    print(a-b)
+elif x == '*':
+    print(a * b)
+elif x == '/':
+    print(a / b)
+
